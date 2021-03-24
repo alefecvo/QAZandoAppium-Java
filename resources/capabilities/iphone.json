@@ -1,0 +1,9 @@
+{
+  "platformName": "iOS",
+  "platformVersion": "14.4",
+  "deviceName": "iPhone 11",
+  "automationName": "XCUITest",
+  "newCommandTimeout": 5,
+  "connectHardwareKeyboard": true
+}
+

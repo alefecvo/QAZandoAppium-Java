@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "deviceName": "qazandoandroid",
+  "platformVersion": "11.0",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "qazandoandroid",
+  "fullReset": true,
+  "newCommandTimeout": 5
+}
